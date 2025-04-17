@@ -111,7 +111,7 @@ Prepare 10%of  resolving gel and 4.5% of stacking gel.
 
  
 
-**** NOTE:Please refer to appendix 1 for the recipe.**** 
+<b> NOTE:Please refer to appendix 1 for the recipe.</b>
 
  
 
@@ -142,7 +142,7 @@ Mix your protein in the ratio 4:1 with the sample buffer. Heat your sample by ei
 <b>Running the gel:</b>
  
 
-**** Note : Before running the gel make sure that the gel, gel apparatus and samples are ready.****
+<b> Note : Before running the gel make sure that the gel, gel apparatus and samples are ready.</b>
 
  
 
