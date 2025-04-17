@@ -5,3 +5,66 @@ PAGE (Polyacrylamide Gel Electrophoresis), is an analytical method used to separ
 <img src="images/1.png" title="" />
 
 <img src="images/2.png" title="" />
+
+
+### Principle behind separation:
+ 
+
+Separation of charged molecules in an electric field is based on the relative mobility of charged species which is related to frictional resistance.
+
+ 
+
+### Charge of the species:
+ 
+
+PAGE is working upon the principle in which, the charged molecule will migrate towards the oppositive charged electrode through highly cross linked matrix. Separation occurs due to different rates of migration occurs by the  magnitude of charge and frictional resistance related to  the size.
+
+ 
+
+### Relative Mobility:
+
+<img src="images/3.png" title="" />
+
+where,
+
+Z = charge on the molecule
+
+E = Voltage applied
+
+and ,
+
+f = frictional resistance
+
+ 
+
+Rf is measured by:
+
+<img src="images/4.png" title="" />
+
+<img src="images/5.png" title="" />
+
+Direction of movement is determined from  Z: -
+
+if Z < 0, then →+
+
+if Z > 0, then → -
+
+if Z = 0, then no movement
+
+ 
+
+The gel used is divided into an upper "stacking" gel of low percentage (with large pore size) and low pH (6.8), where the protein bands get squeezed down as a  thin layer migrating toward the anode and a resolving gel (pH  8.8) with smaller pores. Cl - is the only mobile anion present in both gels. When electrophoresis begins, glycine present in the electrophoresis buffer, enters the stacking gel, where the equilibrium favors zwitterionic form with zero net charge. The glycine front moves through the stacking gel slowly, lagging behind the strongly charged, Cl- ions. Since these two current carrying species separate, a region of low conductivity, with high voltage drop, is formed between them. This zone sweeps the proteins through the large pores of the stacking gel,  and depositing it at the top of the resolving gel as a narrow band.
+
+ 
+
+Stacking gel interactions:
+ 
+
+Stacking occurs by the differential migration of ionic species, which carry the electric current through the gel. When an electrical current is applied to the gel, the negatively charged molecules start migrating to the positively charged electrode. Cl- ions, having the highest charge/mass ratio move faster, being depleted and concentrated at anode end. SDS coated proteins has a higher charge/mass ratio than glycine so it moves fast, but slower than Cl-. When protein encounters resolving gel it slows the migration because of increased frictional resistance, allowing  the protein to stack in the gel.
+
+ 
+
+Resolving Gel Interactions:
+ 
+
+When glycine reaches resolving gel it becomes negatively charged and migrates much faster than protein due to higher charge/mass ratio. Now proteins are the main carrier of current and separate according to their molecular mass by the sieving effect of pores in gel.
