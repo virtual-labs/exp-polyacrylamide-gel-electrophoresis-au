@@ -1,1 +1,1 @@
-## Experiment name
+## 	Polyacrylamide Gel Electrophoresis
