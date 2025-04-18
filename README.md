@@ -1,24 +1,21 @@
+
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Molecular Biology Virtual Lab II 
+<b> Experiment|     <b> Polyacrylamide Gel Electrophoresis
+
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To understand the principle and procedure of Polyacrylamide Gel Electrophoresis (PAGE) and to use it for the separation and analysis of proteins based on their molecular weight under denaturing conditions (SDS-PAGE).
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  shyam@amrita.edu
+<b> Department |  Amrita Mind Brain Center
 
-### Contributors List
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
