@@ -2,37 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In an SDS-PAGE gel",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Proteins are denatured by SDS",
+        "b": "Proteins have the same charge to mass ratio",
+        "c": "Smaller proteins migrate more rapidly through the gel",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following are considered part of the secondary structure of a protein?",
+      "answers": {
+        "a": "Alpha helix",
+        "b": "Beta pleated sheet",
+        "c": "Disulfide bonds",
+        "d": "Both 1 and 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "SDS-PAGE has been used",
+      "answers": {
+        "a": "To analyze different types of proteins in a biological sample",
+        "b": "To characterize membrane proteins in their native conformation",
+        "c": "To characterize the enzyme activities in the lysosome",
+        "d": "To isolate nuclear DNAs"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In an SDS-PAGE experiment, proteins are separated on the basis of their",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Molecular weight",
+        "b": "Charge to mass ratio",
+        "c": "Different isoelectric points",
+        "d": "Negatively charged side chain"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
